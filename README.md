@@ -56,4 +56,11 @@ default risk.
 - New engineered features added meaningful signal:
   - `INCOME_CREDIT_RATIO` — borrower's income relative to loan amount
   - `INSTALLMENT_RATIO` — monthly installment relative to annual income
+ 
+---
+ 
+> Raw datasets are not included due to file size. 
+> Download from: [Kaggle — Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) 
+> and [Kaggle — Lending Club](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+
 
